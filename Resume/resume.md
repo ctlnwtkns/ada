@@ -1,9 +1,12 @@
 ####Caitlin Watkins 1441 21st Avenue Seattle, WA 98122
 #####ctlnwtkns@gmail.com 
 
-Proficient with PostgreSQL, comfortable working in Linux environment, basic understanding of git, limited PHP, HTML experience 
++Proficient with PostgreSQL
++Comfortable in Linux environment
++Basic understanding of git, 
++Limited PHP, HTML experience 
 
-Background in community mental health with an emphasis on non-violent communication, 10+ years experience in non-profit social service sector
+Background in community mental health with an emphasis on non-violent communication, 10+ years experience in non-profit social service sector, one year in information services
 
 ###Downtown Emergency Service Center	
 ###*June 2011 - Present*
