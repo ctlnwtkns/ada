@@ -1,7 +1,5 @@
-####Caitlin Watkins
-####1441 21st Avenue Seattle, WA 98122
+####Caitlin Watkins 1441 21st Avenue Seattle, WA 98122
 #####ctlnwtkns@gmail.com 
-
 
 Proficient with PostgreSQL, comfortable working in Linux environment, basic understanding of git, limited PHP, HTML experience 
 
@@ -11,12 +9,15 @@ Background in community mental health with an emphasis on non-violent communicat
 ###*June 2011 - Present*
 
 *August 2014 - Present*
+
 In my current position as Reports/Data Specialist, I use PSQL to directly query our database to build reports used by agency directors. Mostly collate, but also perform basic data analysis as well. Liase with King County Mental Health, Chemical Abuse and Dependency (MHCADSD) tech support to troubleshoot clinical tier authorizations. 
 
 *October 2012 - August 2014*
+
 As a Case Manager, I met one-on-one with clients to identify service needs and goals, connect clients with area resources, provide basic computer training and technical support, record service notes and track progress using an agency-wide database, continuously research and update resource lists, and provide milieu support in day service center.
 
 *June 2011 - October 2012*
+
 As a Shelter Counselor, I reported observations of clients’ behavior to relevant support staff using the agency database, engaged clients in creative, supportive ways, including setting limits on behavior as appropriate, communicated effectively with co-workers to integrate delivery of services, and maintained accurate records for data collection protocols. 
 
 ##Administrative Support Experience
