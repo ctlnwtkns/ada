@@ -1,6 +1,6 @@
 ###Caitlin Watkins 
 #####1441 21st Avenue | Seattle, WA 98122 | (206) 651-5760
-#####[Email](ctlnwtkns@gmail.com)|[LinkedIn](https://www.linkedin.com/in/caitlinwatkins)|[Blog](https://www.asilearntarot.com)
+#####ctlnwtkns@gmail.com | [LinkedIn](https://www.linkedin.com/in/caitlinwatkins) | [Blog](https://www.asilearntarot.com)
 
 
 *Proficient with PostgreSQL
