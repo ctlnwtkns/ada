@@ -40,9 +40,9 @@ ctlnwtkns@gmail.com | [LinkedIn](https://www.linkedin.com/in/caitlinwatkins)
 ###Education
 
 ####University of North Texas  
-  *August 2003 – December 2006*
+  *August 2003 – December 2006 Graduated cum laude*  
 
 BA Anthropology 
-3.8 GPA *Graduated cum laude*  
+3.8 GPA 
 
 
