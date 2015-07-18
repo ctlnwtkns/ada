@@ -2,13 +2,13 @@
 ####1441 21st Avenue | Seattle, WA 98122 | (206) 651-5760    
 ctlnwtkns@gmail.com | [LinkedIn](https://www.linkedin.com/in/caitlinwatkins) | [Blog](http://www.asilearntarot.com)
 
-*Background in community mental health emphasising non-violent communication 
-*10+ years experience in non-profit social service sector 
-*one year in information services
-  *Proficient with PostgreSQL  
-  *Comfortable in Linux environment  
-  *Basic understanding of git  
-  *Limited PHP, HTML experience   
+Background in community mental health emphasising non-violent communication 
+10+ years experience in non-profit social service sector 
+one year in information services  
+  Proficient with PostgreSQL  
+  Comfortable in Linux environment  
+  Basic understanding of git  
+  Limited PHP, HTML experience   
 
 ###Information Service
 ####Downtown Emergency Service Center  
