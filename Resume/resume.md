@@ -6,10 +6,10 @@ Background in community mental health emphasising non-violent communication
 10+ years experience in non-profit social service sector   
 One year in information services
 
-  +Proficient with PostgreSQL  
-  +Comfortable in Linux environment  
-  +Basic understanding of git  
-  +Limited PHP, HTML experience   
+   Proficient with PostgreSQL  
+   Comfortable in Linux environment  
+   Basic understanding of git  
+   Limited PHP, HTML experience   
 
 ###Information Service
 ####Downtown Emergency Service Center  
