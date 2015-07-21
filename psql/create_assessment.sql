@@ -1,3 +1,5 @@
+--question one
+
 CREATE TEMP TABLE cities AS
 SELECT  DISTINCT City,
 		split_part(City, '.', 2) AS Abbreviated,
@@ -37,6 +39,8 @@ WHERE City NOT IN
 AND City NOT IN ('n/a', 'T/NILES')
 ORDER BY City ASC;
 
+
+--question two
 CREATE OR REPLACE VIEW markets_per_state AS
 SELECT COUNT(FMID) AS Total, State
 FROM (
@@ -58,15 +62,31 @@ ORDER BY Total DESC
 ;
 
 CREATE OR REPLACE VIEW pop_dense AS
-SELECT DISTINCT pd.County AS State, population
-FROM pop_density pd
-LEFT JOIN markets_per_state m ON m.State = pd.County
-WHERE geographic_area NOT LIKE '%unicipio%'
-AND pd.County NOT LIKE '%_County'
-AND m.State = pd.County
-ORDER BY pd.County
+SELECT DISTINCT CASE WHEN name ILIKE '%Puerto Rico%' THEN 'Puerto Rico' ELSE name END AS State, popestimate2014 AS population
+FROM pop_estimate pe
+WHERE state != '00'
 ;
 
+--question three
+CREATE OR REPLACE VIEW coordinates AS
+SELECT FMID, ROUND(fm.longitude, 2) AS market_long, ROUND(fm.latitude, 0) AS market_lat
+FROM farmers_markets fm
+WHERE City in (SELECT City FROM Useable)
+ORDER BY city, state
+;
 
+CREATE OR REPLACE VIEW r_lat_long AS
+SELECT ROUND(latitude, 0) AS river_lat, ROUND(longitude, 2) AS river_long
+FROM mississippi
+ORDER BY longitude
+;
 
+CREATE OR REPLACE VIEW m_lat_long AS
+SELECT ROUND(latitude, 0) AS mnt_lat, ROUND(longitude, 2) AS mnt_long
+FROM rockies
+WHERE Id BETWEEN 14 AND 31
+ORDER BY longitude
+;
+
+\copy (SELECT fmid, latitude, longitude FROM farmers_markets) TO 'farmers_markets_new.csv' DELIMITER ',' CSV HEADER
 
